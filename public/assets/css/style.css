@@ -1,0 +1,31 @@
+body {
+  background: url('../images/hamburger.jpg');
+}
+h1,h2 {
+  text-align: center;
+  color: aqua;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  padding: 5px;
+  margin: 10px;
+  color: lightcyan;
+  text-align: center;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-form {
+  padding: 5px;
+  margin: 5px;
+  background: lightcyan;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
