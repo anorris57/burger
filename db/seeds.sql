@@ -1,3 +1,14 @@
-INSERT INTO burgers (burger_name) VALUES ('Avocado Cheddar Melt Burger');
-INSERT INTO burgers (burger_name) VALUES ('Hot Rod Burger (topped with hot mustard and jalepenos');
-INSERT INTO burgers (burger_name) VALUES ('Piminto Pony Burger (topped with homemade piminto cheese');
+
+
+INSERT INTO burgers (burger_name)
+VALUES ("Avocado Swiss Melt Burger");
+
+INSERT INTO burgers (burger_name, devoured)
+VALUES ("Tuna Dill Burger");
+
+INSERT INTO burgers (burger_name)
+VALUES ("Spam Cheddar Melt Burger");
+
+INSERT INTO burgers (burger_name, devoured)
+VALUES ("Pink Lady Apple Burger");
+
